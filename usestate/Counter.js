@@ -13,7 +13,8 @@ function Counter() {
         <h1> Counter</h1>
          <p> Counter is at {count}</p>
          <button onClick={incr}> Click to add 1 to counter</button>
-      
+         <h1> try</h1>
+         <h1> try2</h1>
       </div>
     );
 

@@ -5,8 +5,6 @@ function App() {
     <div className="App">
       useState
       <Counter />
-           
-    
     </div>
   );
 }

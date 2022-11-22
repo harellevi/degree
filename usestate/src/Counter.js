@@ -15,7 +15,8 @@ function Counter(props) {
         function(oldCount){
           return oldCount=1
         }
-        )    } 
+        )   
+       } 
    
     return (
       <div className="App">

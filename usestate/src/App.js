@@ -37,6 +37,7 @@ function getAllMax(data){
       enter max value<input type = "number" value={max} onChange={handelMax}/>
       <br/>
       enter delta<input type = "number" value={delta} onChange={handleDelta}/>
+      <br/>
       <label>Maximum value {allMaxValue}</label>
       <Counter delta = {delta} max={max} getReset={getReset} needToReset={reset} getAllMax = {getAllMax}/>
       <Counter delta={delta} max={max} getReset={getReset} needToReset={reset} getAllMax = {getAllMax}/>
